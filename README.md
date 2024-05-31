@@ -72,5 +72,5 @@ Adds a footer section with contact information, opening hours, and copyright not
 ![Thanks Message for Review ](README_IMAGES/12.png "Thanks Message for Review ")
 ![Footer Section](README_IMAGES/13.png "Footer Section")
 ## Credits
-### Copyrights © 2023 Girivardhan, All rights reserved.
-### Designed By : Girivardhan.
+### Copyrights © 2023 Vamsi, All rights reserved.
+### Designed By : Vamsi.
